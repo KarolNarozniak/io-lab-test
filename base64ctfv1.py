@@ -1,4 +1,4 @@
-# Defininicja alfabet Base64 ale lepiej
+# Defininicja alfabet Base64 ale lepiej dużo lepiej
 alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/"
 
 
