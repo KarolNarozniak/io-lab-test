@@ -1,5 +1,6 @@
 # Defininicja alfabet Base64 ale lepiej dużo lepiej naprawdę
-# Żarttowałem naprawdę serio mówię Ci
+# Żarttowałem naprawdę serio mówię Ci stary
+# Jest dobrze
 alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/"
 
 
