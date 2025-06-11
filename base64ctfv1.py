@@ -1,6 +1,7 @@
 # Defininicja alfabet Base64 ale lepiej dużo lepiej naprawdę
-# Żarttowałem naprawdę serio mówię Ci
-alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/"
+# Żarttowałem naprawdę serio mówię Ci stary
+# Jest dobrze naprawdę
+alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/`"
 
 
 def extract_hidden_bits(encoded):
