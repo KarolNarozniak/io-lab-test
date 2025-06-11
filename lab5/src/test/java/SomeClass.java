@@ -13,4 +13,5 @@ public class SomeClass {
         int value=4;
         int value2=5;
         assert value+value2==9;
+    }
 }
